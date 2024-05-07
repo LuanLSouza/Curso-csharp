@@ -1,0 +1,14 @@
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\6126026\OneDrive - Thomson Reuters Incorporated\Documentos\ProjetosC#\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
