@@ -1,16 +1,17 @@
 ﻿
 using Fundamentos.Models;
 
-List<string> listaString = new List<string>();
 
-listaString.Add("SP");
-listaString.Add("RJ");
-listaString.Add("MG");
+// List<string> listaString = new List<string>();
 
-foreach (string item in listaString)
-{
-    Console.WriteLine(item);
-}
+// listaString.Add("SP");
+// listaString.Add("RJ");
+// listaString.Add("MG");
+
+// foreach (string item in listaString)
+// {
+//     Console.WriteLine(item);
+// }
 
 
 // int[] arrayInteiros = new int[3];
